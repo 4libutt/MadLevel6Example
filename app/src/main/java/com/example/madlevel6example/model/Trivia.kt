@@ -1,4 +1,4 @@
-package com.example.madlevel6example
+package com.example.madlevel6example.model
 
 import com.google.gson.annotations.SerializedName
 
